@@ -8,7 +8,7 @@
 // lands on a single cold read). See STUDY.md for the full list
 // and why this one won.
 
-import { mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 // The entry: asking the universe for a sign and getting the most
@@ -28,3 +28,24 @@ const outFile = join(outDir, "entry.txt");
 
 mkdirSync(outDir, { recursive: true });
 writeFileSync(outFile, ENTRY + "\n", "utf8");
+
+// Read-back verification: the file on disk must be exactly the entry
+// plus one trailing newline (58 bytes: 57 entry chars + "\n"), and the
+// entry itself must stay one line of 57 characters.
+function verify(path: string): void {
+  if ([...ENTRY].length !== 57) {
+    throw new Error(`ENTRY must be 57 characters, got ${[...ENTRY].length}`);
+  }
+  if (ENTRY.includes("\n")) {
+    throw new Error("ENTRY must be a single line");
+  }
+  const data = readFileSync(path);
+  const expected = Buffer.from(ENTRY + "\n", "utf8");
+  if (data.length !== 58 || !data.equals(expected)) {
+    throw new Error(
+      `entry.txt must be 58 bytes (ENTRY + one newline), got ${data.length}`,
+    );
+  }
+}
+
+verify(outFile);
