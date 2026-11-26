@@ -28,22 +28,22 @@ earliest receipt can win.
 
 ## Candidates (16, scored against the 5 criteria)
 
-1. (99) "My therapist said to face my fears, so I opened my bank app and now we both need therapy." — good turn, but therapist jokes are common.
-2. (97) "I told my plants I was going on holiday; they started dying out of spite before I even packed." — nice spite turn, slightly long.
-3. (72) "My phone's screen time report called me brave for looking at it." — fresh personification, strong runner-up.
+1. (89) "My therapist said to face my fears, so I opened my bank app and now we both need therapy." — good turn, but therapist jokes are common.
+2. (94) "I told my plants I was going on holiday; they started dying out of spite before I even packed." — nice spite turn, slightly long.
+3. (64) "My phone's screen time report called me brave for looking at it." — fresh personification, strong runner-up.
 4. (57) "I asked the universe for a sign and got a parking ticket." — WINNER (see below).
-5. (124) "My smartwatch congratulated me for standing up, then watched me sit back down like a disappointed parent." — funny, but 124 chars is long for the tie-break.
-6. (76) "I bought a self-help book and it filed a restraining order." — good turn; restraining-order angle is worn elsewhere.
-7. (88) "My password is so strong even I can't get in; security has never felt so personal." — relatable, turn is mild.
-8. (75) "I told my dog we're going to the vet; he filed for emancipation." — clean, but the legal-paperwork turn repeats candidate 6's shape.
-9. (68) "My calendar invited me to a meeting with myself and I declined." — short and dry, but the laugh is small.
-10. (82) "I started a diet on Monday, and by Tuesday my fridge had unionised." — fridge-union angle is used in other fields.
-11. (78) "My horoscope said avoid financial decisions, right after I bought a boat." — decent, needs the reader to supply the joke.
-12. (68) "I asked AI to write my wedding vows; it suggested a prenup." — sharp, but AI-wedding is a familiar setup.
-13. (104) "My neighbour's Wi-Fi is called FBI Surveillance Van and honestly, the signal has never been better." — funny detail, long and meme-leaning.
-14. (54) "I tried to meditate and my brain opened 47 tabs." — very short, good image, but the turn is a tech cliche.
-15. (99) "My bank called about suspicious activity; it was just me buying groceries like an adult." — relatable, turn lands soft.
-16. (106) "I named my vacuum Roomba the Explorer; it still hasn't found my will to live under the couch." — long, two jokes competing.
+5. (105) "My smartwatch congratulated me for standing up, then watched me sit back down like a disappointed parent." — funny, but 105 chars is long for the tie-break.
+6. (59) "I bought a self-help book and it filed a restraining order." — good turn; restraining-order angle is worn elsewhere.
+7. (82) "My password is so strong even I can't get in; security has never felt so personal." — relatable, turn is mild.
+8. (64) "I told my dog we're going to the vet; he filed for emancipation." — clean, but the legal-paperwork turn repeats candidate 6's shape.
+9. (63) "My calendar invited me to a meeting with myself and I declined." — short and dry, but the laugh is small.
+10. (67) "I started a diet on Monday, and by Tuesday my fridge had unionised." — fridge-union angle is used in other fields.
+11. (73) "My horoscope said avoid financial decisions, right after I bought a boat." — decent, needs the reader to supply the joke.
+12. (59) "I asked AI to write my wedding vows; it suggested a prenup." — sharp, but AI-wedding is a familiar setup.
+13. (99) "My neighbour's Wi-Fi is called FBI Surveillance Van and honestly, the signal has never been better." — funny detail, long and meme-leaning.
+14. (48) "I tried to meditate and my brain opened 47 tabs." — very short, good image, but the turn is a tech cliche.
+15. (88) "My bank called about suspicious activity; it was just me buying groceries like an adult." — relatable, turn lands soft.
+16. (93) "I named my vacuum Roomba the Explorer; it still hasn't found my will to live under the couch." — long, two jokes competing.
 
 ## Why #4 won
 
